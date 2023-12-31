@@ -11,8 +11,8 @@ body {
     background-color: hsl(213, 19%, 18%) !important;
 }
 .bg-info {
-    width: 3vw;
-    height: 6.5vh;
+    width: 4vw;
+    height: 4vw;
     background-color: hsl(214, 16%, 28%)!important;
 }
 .text-danger {
